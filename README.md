@@ -5,6 +5,7 @@
 </br>
 ### T2
 ![image](https://user-images.githubusercontent.com/85616944/143303141-7dfc1d2f-6335-40f4-93a9-62b842be59a2.png)
-![image](https://user-images.githubusercontent.com/85616944/143303195-c4461b97-3744-4f82-8650-c54e9113af4b.png)
+![image](https://user-images.githubusercontent.com/85616944/143303252-1ea25972-577f-4869-99ce-93bb4456e9c3.png)
+
 
 # Zadanie 5.3
