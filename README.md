@@ -13,3 +13,11 @@
 
 
 # Zadanie 5.3
+### D1
+![image](https://user-images.githubusercontent.com/85616944/143306385-40f2b026-36b9-463c-92b8-add18be205b1.png)
+
+### D2
+![image](https://user-images.githubusercontent.com/85616944/143306342-55ec8371-0521-452b-81c5-549dadd29652.png)
+
+### S1
+![image](https://user-images.githubusercontent.com/85616944/143306431-b605f476-b556-4260-8fe4-06db3e09e449.png)
